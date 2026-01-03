@@ -1,0 +1,8 @@
+Data cleaning:-
+
+Data Cleaning also known as data cleansing or data scrubbing, is the process of
+identifying and correcting (or removing) errors, inconsistencies, and inaccuracies
+within a dataset.
+This crucial step in the data management and data science pipeline ensures that 
+the data is accurate,consistent, and reliable, which is essential for effective 
+analysis and decision-making. 
